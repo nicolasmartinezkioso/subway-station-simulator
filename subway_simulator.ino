@@ -289,6 +289,3 @@ void titilarLed(int ledPin) {
   delay(TIEMPO_TITILADO);
   digitalWrite(ledPin, LOW);
 }
-
-
-
